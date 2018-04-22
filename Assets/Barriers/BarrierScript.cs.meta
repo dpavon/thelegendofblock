@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 31083e1c5aa1fa74d99c5e789510a366
+timeCreated: 1524420363
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - disappearSound: {fileID: 8300000, guid: af7526da18525d54db1b4477d81958da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
